@@ -1,0 +1,36 @@
+D:\LTCSDL\bài 4 gk\ex4GUI\obj\Debug\ex4GUI.csproj.AssemblyReference.cache
+D:\LTCSDL\bài 4 gk\ex4GUI\obj\Debug\ex4GUI.Properties.Resources.resources
+D:\LTCSDL\bài 4 gk\ex4GUI\obj\Debug\ex4GUI.csproj.GenerateResource.cache
+D:\LTCSDL\bài 4 gk\ex4GUI\obj\Debug\ex4GUI.csproj.CoreCompileInputs.cache
+D:\LTCSDL\bài 4 gk\ex4GUI\bin\Debug\ex4GUI.exe.config
+D:\LTCSDL\bài 4 gk\ex4GUI\bin\Debug\ex4GUI.exe
+D:\LTCSDL\bài 4 gk\ex4GUI\bin\Debug\ex4GUI.pdb
+D:\LTCSDL\bài 4 gk\ex4GUI\bin\Debug\ex4BUS.dll
+D:\LTCSDL\bài 4 gk\ex4GUI\bin\Debug\ex4DTO.dll
+D:\LTCSDL\bài 4 gk\ex4GUI\bin\Debug\ex4DAO.dll
+D:\LTCSDL\bài 4 gk\ex4GUI\bin\Debug\ex4BUS.pdb
+D:\LTCSDL\bài 4 gk\ex4GUI\bin\Debug\ex4DTO.pdb
+D:\LTCSDL\bài 4 gk\ex4GUI\bin\Debug\ex4DAO.pdb
+D:\LTCSDL\bài 4 gk\ex4GUI\bin\Debug\ex4DAO.dll.config
+D:\LTCSDL\bài 4 gk\ex4GUI\obj\Debug\ex4GUI.csproj.Up2Date
+D:\LTCSDL\bài 4 gk\ex4GUI\obj\Debug\ex4GUI.exe
+D:\LTCSDL\bài 4 gk\ex4GUI\obj\Debug\ex4GUI.pdb
+D:\LTCSDL\bài 4 gk\ex4GUI\obj\Debug\QLPhieuNhap_GUI.Form1.resources
+D:\LTCSDL\bai4LINQ\ex4GUI\bin\Debug\ex4GUI.exe.config
+D:\LTCSDL\bai4LINQ\ex4GUI\bin\Debug\ex4GUI.exe
+D:\LTCSDL\bai4LINQ\ex4GUI\bin\Debug\ex4GUI.pdb
+D:\LTCSDL\bai4LINQ\ex4GUI\bin\Debug\ex4BUS.dll
+D:\LTCSDL\bai4LINQ\ex4GUI\bin\Debug\ex4DAO.dll
+D:\LTCSDL\bai4LINQ\ex4GUI\bin\Debug\ex4DTO.dll
+D:\LTCSDL\bai4LINQ\ex4GUI\bin\Debug\ex4BUS.pdb
+D:\LTCSDL\bai4LINQ\ex4GUI\bin\Debug\ex4DAO.pdb
+D:\LTCSDL\bai4LINQ\ex4GUI\bin\Debug\ex4DAO.dll.config
+D:\LTCSDL\bai4LINQ\ex4GUI\bin\Debug\ex4DTO.pdb
+D:\LTCSDL\bai4LINQ\ex4GUI\obj\Debug\ex4GUI.csproj.AssemblyReference.cache
+D:\LTCSDL\bai4LINQ\ex4GUI\obj\Debug\QLPhieuNhap_GUI.Form1.resources
+D:\LTCSDL\bai4LINQ\ex4GUI\obj\Debug\ex4GUI.Properties.Resources.resources
+D:\LTCSDL\bai4LINQ\ex4GUI\obj\Debug\ex4GUI.csproj.GenerateResource.cache
+D:\LTCSDL\bai4LINQ\ex4GUI\obj\Debug\ex4GUI.csproj.CoreCompileInputs.cache
+D:\LTCSDL\bai4LINQ\ex4GUI\obj\Debug\ex4GUI.csproj.Up2Date
+D:\LTCSDL\bai4LINQ\ex4GUI\obj\Debug\ex4GUI.exe
+D:\LTCSDL\bai4LINQ\ex4GUI\obj\Debug\ex4GUI.pdb
