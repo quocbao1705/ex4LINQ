@@ -1,0 +1,6 @@
+D:\LTCSDL\bai4LINQ\ex4DTO\bin\Debug\ex4DTO.dll
+D:\LTCSDL\bai4LINQ\ex4DTO\bin\Debug\ex4DTO.pdb
+D:\LTCSDL\bai4LINQ\ex4DTO\obj\Debug\ex4LINQDTO.csproj.AssemblyReference.cache
+D:\LTCSDL\bai4LINQ\ex4DTO\obj\Debug\ex4LINQDTO.csproj.CoreCompileInputs.cache
+D:\LTCSDL\bai4LINQ\ex4DTO\obj\Debug\ex4DTO.dll
+D:\LTCSDL\bai4LINQ\ex4DTO\obj\Debug\ex4DTO.pdb

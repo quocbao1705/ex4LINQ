@@ -1,0 +1,6 @@
+D:\LTCSDL\bài 4 gk\ex4DTO\obj\Debug\ex4DTO.csproj.AssemblyReference.cache
+D:\LTCSDL\bài 4 gk\ex4DTO\obj\Debug\ex4DTO.csproj.CoreCompileInputs.cache
+D:\LTCSDL\bài 4 gk\ex4DTO\bin\Debug\ex4DTO.dll
+D:\LTCSDL\bài 4 gk\ex4DTO\bin\Debug\ex4DTO.pdb
+D:\LTCSDL\bài 4 gk\ex4DTO\obj\Debug\ex4DTO.dll
+D:\LTCSDL\bài 4 gk\ex4DTO\obj\Debug\ex4DTO.pdb

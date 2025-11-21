@@ -1,0 +1,10 @@
+D:\LTCSDL\bai4LINQ\ex4DAO\obj\Debug\ex4LINQDAO.csproj.AssemblyReference.cache
+D:\LTCSDL\bai4LINQ\ex4DAO\obj\Debug\ex4LINQDAO.csproj.CoreCompileInputs.cache
+D:\LTCSDL\bai4LINQ\ex4DAO\obj\Debug\ex4DAO.dll
+D:\LTCSDL\bai4LINQ\ex4DAO\obj\Debug\ex4DAO.pdb
+D:\LTCSDL\bai4LINQ\ex4DAO\bin\Debug\ex4DAO.dll.config
+D:\LTCSDL\bai4LINQ\ex4DAO\bin\Debug\ex4DAO.dll
+D:\LTCSDL\bai4LINQ\ex4DAO\bin\Debug\ex4DAO.pdb
+D:\LTCSDL\bai4LINQ\ex4DAO\bin\Debug\ex4DTO.dll
+D:\LTCSDL\bai4LINQ\ex4DAO\bin\Debug\ex4DTO.pdb
+D:\LTCSDL\bai4LINQ\ex4DAO\obj\Debug\ex4LINQDAO.csproj.Up2Date

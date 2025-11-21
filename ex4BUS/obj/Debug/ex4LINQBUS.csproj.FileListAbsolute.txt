@@ -1,0 +1,12 @@
+D:\LTCSDL\bai4LINQ\ex4BUS\bin\Debug\ex4BUS.dll
+D:\LTCSDL\bai4LINQ\ex4BUS\bin\Debug\ex4BUS.pdb
+D:\LTCSDL\bai4LINQ\ex4BUS\bin\Debug\ex4DAO.dll
+D:\LTCSDL\bai4LINQ\ex4BUS\bin\Debug\ex4DTO.dll
+D:\LTCSDL\bai4LINQ\ex4BUS\bin\Debug\ex4DAO.pdb
+D:\LTCSDL\bai4LINQ\ex4BUS\bin\Debug\ex4DAO.dll.config
+D:\LTCSDL\bai4LINQ\ex4BUS\bin\Debug\ex4DTO.pdb
+D:\LTCSDL\bai4LINQ\ex4BUS\obj\Debug\ex4LINQBUS.csproj.AssemblyReference.cache
+D:\LTCSDL\bai4LINQ\ex4BUS\obj\Debug\ex4LINQBUS.csproj.CoreCompileInputs.cache
+D:\LTCSDL\bai4LINQ\ex4BUS\obj\Debug\ex4LINQBUS.csproj.Up2Date
+D:\LTCSDL\bai4LINQ\ex4BUS\obj\Debug\ex4BUS.dll
+D:\LTCSDL\bai4LINQ\ex4BUS\obj\Debug\ex4BUS.pdb
